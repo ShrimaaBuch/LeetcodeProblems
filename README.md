@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0001-two-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
