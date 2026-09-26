@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Prefix Sum
 |  |
 | ------- |
