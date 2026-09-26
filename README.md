@@ -16,8 +16,13 @@
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2413-smallest-even-multiple](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
