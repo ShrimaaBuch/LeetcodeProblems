@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0007-reverse-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
