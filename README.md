@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1470-shuffle-the-array) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -30,5 +32,22 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
