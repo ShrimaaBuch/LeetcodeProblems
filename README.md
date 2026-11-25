@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [1207-unique-number-of-occurrences](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -73,6 +75,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -84,6 +87,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -109,4 +113,12 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0273-integer-to-english-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
