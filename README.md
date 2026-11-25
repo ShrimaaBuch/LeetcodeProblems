@@ -10,11 +10,13 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +26,7 @@
 | [0507-perfect-number](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
@@ -55,4 +58,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
