@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
+| [1207-unique-number-of-occurrences](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1470-shuffle-the-array) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [1207-unique-number-of-occurrences](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
