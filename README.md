@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -62,4 +63,20 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
