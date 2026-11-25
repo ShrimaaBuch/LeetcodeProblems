@@ -12,6 +12,7 @@
 | [1470-shuffle-the-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1480-running-sum-of-1d-array) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1929-concatenation-of-array](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
