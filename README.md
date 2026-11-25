@@ -20,12 +20,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ShrimaaBuch/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
